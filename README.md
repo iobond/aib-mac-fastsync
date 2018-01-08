@@ -12,7 +12,7 @@ How to fast sync the AIB?
 
 2. Make sure that your AIB Wallet is closed.
 
-3. Download https://github.com/iobond/aib-macos-fastsync/releases/download/aib-122100-fastsync.zip/aib-122100-fastsync.zip
+3. Download https://github.com/iobond/aib-mac-fastsync/releases/download/AIB-MAC-Blockdata/aib-122100-fastsync.zip
 
 4. Run adeployAibFastSyncForMacOS script, it will extract the AIB block data under your app data folder
 
